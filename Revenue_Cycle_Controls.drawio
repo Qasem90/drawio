@@ -121,6 +121,9 @@
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-9" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="&lt;p&gt;&lt;span style=&quot;font-weight: normal; color: rgb(0, 0, 204);&quot;&gt;&lt;code style=&quot;caret-color: rgb(0, 0, 0); white-space: normal; box-sizing: border-box; margin: 0px; padding: 0.05rem 0.3rem; background-image: none; background-position: 0% 0%; background-size: auto; background-repeat: repeat; background-attachment: scroll; background-origin: padding-box; background-clip: border-box; border-radius: 3px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Billing / Accounts Receivable&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="1140" width="400" x="650" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="eneRAPxh8_k1yMFBMweh-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="400" width="970" x="160" y="1300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
