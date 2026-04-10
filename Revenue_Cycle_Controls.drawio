@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="AO0dZAcm9MJcilD5T5h9">
-    <mxGraphModel dx="1694" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,8 +71,16 @@
         <mxCell id="zg_lrDY76imxWkE3zH7j-22" parent="fgTKOt-ylDvx4LyrWoIB-8" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" value="" vertex="1">
           <mxGeometry height="60" width="80" x="-50" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="eneRAPxh8_k1yMFBMweh-1" parent="fgTKOt-ylDvx4LyrWoIB-8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;align=center;" value="&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; color: rgb(255, 51, 153);&quot;&gt;Sales Order Received&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; color: rgb(255, 51, 153);&quot;&gt;by Warehouse&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="20" y="70" as="geometry" />
+        </mxCell>
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-9" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="&lt;p&gt;&lt;span style=&quot;font-weight: normal; color: rgb(0, 0, 204);&quot;&gt;&lt;code style=&quot;caret-color: rgb(0, 0, 0); white-space: normal; box-sizing: border-box; margin: 0px; padding: 0.05rem 0.3rem; background-image: none; background-position: 0% 0%; background-size: auto; background-repeat: repeat; background-attachment: scroll; background-origin: padding-box; background-clip: border-box; border-radius: 3px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Billing / Accounts Receivable&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="1060" width="290" x="510" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eneRAPxh8_k1yMFBMweh-2" edge="1" parent="fgTKOt-ylDvx4LyrWoIB-6" source="zg_lrDY76imxWkE3zH7j-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" target="eneRAPxh8_k1yMFBMweh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
