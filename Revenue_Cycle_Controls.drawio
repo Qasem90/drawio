@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="AO0dZAcm9MJcilD5T5h9">
-    <mxGraphModel dx="847" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;html=1;swimlaneFillColor=none;fillColor=#e1d5e7;strokeWidth=4;opacity=70;fontStyle=0;fontFamily=Times New Roman;align=center;fontSize=15;textDirection=ltr;labelBackgroundColor=none;whiteSpace=wrap;convertToSvg=1;svgWhiteSpace=wrap;strokeColor=#9673a6;" value="&lt;span style=&quot;white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1100" width="800" x="10" y="70" as="geometry" />
+          <mxGeometry height="1100" width="800" x="140" y="50" as="geometry" />
         </mxCell>
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-7" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); font-size: 12.512px; color: rgb(102, 102, 0);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sales Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="1060" width="250" y="40" as="geometry" />
