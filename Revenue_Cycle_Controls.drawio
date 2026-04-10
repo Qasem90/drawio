@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;html=1;swimlaneFillColor=none;fillColor=#e1d5e7;strokeWidth=4;opacity=70;fontStyle=0;fontFamily=Times New Roman;align=center;fontSize=15;textDirection=ltr;labelBackgroundColor=none;whiteSpace=wrap;convertToSvg=1;svgWhiteSpace=wrap;strokeColor=#9673a6;" value="&lt;span style=&quot;white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1180" width="1050" x="110" y="10" as="geometry" />
+          <mxGeometry height="1180" width="1050" x="120" y="10" as="geometry" />
         </mxCell>
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-7" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); font-size: 12.512px; color: rgb(102, 102, 0);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sales Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="1140" width="250" y="40" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zg_lrDY76imxWkE3zH7j-1" parent="fgTKOt-ylDvx4LyrWoIB-7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#b1dd8c, #ededed);" value="&lt;span style=&quot;text-align: start; caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; background-color: rgba(0, 245, 255, 0.08); color: rgb(0, 102, 0);&quot;&gt;&lt;b&gt;START&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="50" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="60" as="geometry" />
         </mxCell>
         <mxCell id="zg_lrDY76imxWkE3zH7j-2" parent="fgTKOt-ylDvx4LyrWoIB-7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; color: light-dark(rgb(255, 64, 255), rgb(12, 33, 0));&quot;&gt;&lt;font&gt;Customer Places Order&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="40" y="150" as="geometry" />
@@ -72,12 +72,12 @@
           <mxGeometry height="60" width="80" x="-50" y="310" as="geometry" />
         </mxCell>
         <mxCell id="eneRAPxh8_k1yMFBMweh-1" parent="fgTKOt-ylDvx4LyrWoIB-8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;align=center;" value="&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; color: rgb(255, 51, 153);&quot;&gt;Sales Order Received&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; color: rgb(255, 51, 153);&quot;&gt;by Warehouse&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="210" x="70" y="70" as="geometry" />
+          <mxGeometry height="120" width="260" x="60" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="eneRAPxh8_k1yMFBMweh-2" edge="1" parent="fgTKOt-ylDvx4LyrWoIB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="eneRAPxh8_k1yMFBMweh-2" edge="1" parent="fgTKOt-ylDvx4LyrWoIB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eneRAPxh8_k1yMFBMweh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-38.73999999999999" y="941.3999999999997" as="sourcePoint" />
-            <mxPoint x="18.7399999999998" y="160.00000000000003" as="targetPoint" />
+            <mxPoint x="80" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eneRAPxh8_k1yMFBMweh-5" edge="1" parent="fgTKOt-ylDvx4LyrWoIB-8" source="eneRAPxh8_k1yMFBMweh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
