@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="AO0dZAcm9MJcilD5T5h9">
+    <mxGraphModel dx="847" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fgTKOt-ylDvx4LyrWoIB-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;html=1;gradientColor=none;swimlaneFillColor=none;fillColor=default;strokeWidth=4;opacity=70;fontStyle=0;fontFamily=Times New Roman;align=center;fontSize=15;textDirection=ltr;labelBackgroundColor=none;whiteSpace=wrap;convertToSvg=1;svgWhiteSpace=wrap;" value="&lt;span style=&quot;white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 245, 255);&quot;&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="540" width="690" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fgTKOt-ylDvx4LyrWoIB-7" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=40;html=1;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 245, 255); font-size: 12.512px; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sales Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="500" width="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fgTKOt-ylDvx4LyrWoIB-8" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=40;html=1;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 12.512px; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Warehouse Department&lt;/span&gt;" vertex="1">
+          <mxGeometry height="500" width="230" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fgTKOt-ylDvx4LyrWoIB-9" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=40;html=1;" value="&lt;code style=&quot;caret-color: rgb(0, 0, 0); font-weight: 400; text-align: start; white-space: normal; box-sizing: border-box; margin: 0px; padding: 0.05rem 0.3rem; font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 0.85em; background: rgba(0, 245, 255, 0.08); border-radius: 3px;&quot;&gt;Billing / Accounts Receivable&lt;/code&gt;&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(204, 218, 238); color: rgb(204, 218, 238); font-family: Barlow, sans-serif; font-size: 14.72px; background-color: rgba(255, 255, 255, 0.02);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="500" width="260" x="430" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
