@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="AO0dZAcm9MJcilD5T5h9">
-    <mxGraphModel dx="1290" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=40;html=1;swimlaneFillColor=none;fillColor=#e1d5e7;strokeWidth=4;opacity=70;fontStyle=0;fontFamily=Times New Roman;align=center;fontSize=15;textDirection=ltr;labelBackgroundColor=none;whiteSpace=wrap;convertToSvg=1;svgWhiteSpace=wrap;strokeColor=#9673a6;" value="&lt;span style=&quot;white-space: normal; caret-color: rgb(0, 245, 255); color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1240" width="920" x="110" y="-780" as="geometry" />
+          <mxGeometry height="1260" width="920" x="140" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-7" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); font-size: 12.512px; color: rgb(102, 102, 0);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sales Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1200" width="300" y="40" as="geometry" />
+          <mxGeometry height="1220" width="300" y="40" as="geometry" />
         </mxCell>
         <mxCell id="zg_lrDY76imxWkE3zH7j-3" edge="1" parent="fgTKOt-ylDvx4LyrWoIB-7" source="zg_lrDY76imxWkE3zH7j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zg_lrDY76imxWkE3zH7j-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry height="100" width="220" x="15" y="920" as="geometry" />
         </mxCell>
         <mxCell id="fgTKOt-ylDvx4LyrWoIB-8" parent="fgTKOt-ylDvx4LyrWoIB-6" style="swimlane;startSize=50;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;p&gt;&lt;span style=&quot;font-weight: 400; text-align: start; white-space: normal; caret-color: rgb(0, 245, 255); font-size: 12.512px; color: light-dark(rgb(56, 87, 26), rgb(0, 115, 123));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Warehouse Department&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="1200" width="620" x="300" y="40" as="geometry" />
+          <mxGeometry height="1220" width="620" x="300" y="40" as="geometry" />
         </mxCell>
         <mxCell id="zg_lrDY76imxWkE3zH7j-22" parent="fgTKOt-ylDvx4LyrWoIB-8" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" value="" vertex="1">
           <mxGeometry height="60" width="80" x="-50" y="310" as="geometry" />
@@ -121,9 +121,14 @@
         <mxCell id="_MGSx8CtyrCqzSrkquLt-15" parent="fgTKOt-ylDvx4LyrWoIB-8" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFCCCC;strokeColor=#b85450;" value="&lt;span style=&quot;caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 12.512px; color: light-dark(rgb(86, 16, 41), rgb(24, 24, 0));&quot;&gt;Shipping Authorization Verified&lt;/span&gt;" vertex="1">
           <mxGeometry height="130" width="170" x="440" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="eneRAPxh8_k1yMFBMweh-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="400" width="970" x="160" y="1300" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ndVqPvfCJrLxYAuGXY58" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
