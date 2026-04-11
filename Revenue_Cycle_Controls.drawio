@@ -136,16 +136,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yHOb2ajMY2jwzynSMw6U-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
-          <mxGeometry height="360" width="480" x="160" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="yHOb2ajMY2jwzynSMw6U-2" parent="yHOb2ajMY2jwzynSMw6U-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
-          <mxGeometry height="120" width="460" x="20" as="geometry" />
+          <mxGeometry height="240" width="480" x="160" y="220" as="geometry" />
         </mxCell>
         <mxCell id="yHOb2ajMY2jwzynSMw6U-3" parent="yHOb2ajMY2jwzynSMw6U-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
-          <mxGeometry height="120" width="460" x="20" y="120" as="geometry" />
+          <mxGeometry height="120" width="460" x="20" as="geometry" />
         </mxCell>
         <mxCell id="yHOb2ajMY2jwzynSMw6U-4" parent="yHOb2ajMY2jwzynSMw6U-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="120" width="460" x="20" y="240" as="geometry" />
+          <mxGeometry height="120" width="460" x="20" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
